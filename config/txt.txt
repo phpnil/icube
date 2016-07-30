@@ -1,0 +1,3 @@
+"C:\Python27\Scripts\pip2.7.exe" runserver.py -a google -u rabadiya.nilesh@gmail.com -p JaySwaminarayan -l "Santa Monica, CA 90404, United States"-st 7 -H 0.0.0.0 -L en
+
+runserver.py -a ptc -u hunter0261 -p 123456 -l "Santa Monica, CA 90404, United States" -st 7 -H 0.0.0.0 -L en
